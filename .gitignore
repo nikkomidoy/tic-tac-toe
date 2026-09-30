@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+.venv
+.idea
+.DS_Store
+*.log
+*.tsbuildinfo
